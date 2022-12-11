@@ -1,2 +1,2 @@
 # Git_GitHub
-None
+LYZ's first github project!
